@@ -15,7 +15,7 @@ export default function App() {
     <View style={styles.container}>
 
         <Text>Hello, my name is {name}</Text>
-        <Text>My ninja hero is {person.name} and he is {person.age} old</Text>
+        <Text>My ninja hero is {person.name} and he is {person.age} old!!!</Text>
 
 
       <View style={styles.buttonContainer}>
